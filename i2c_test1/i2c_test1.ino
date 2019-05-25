@@ -10,6 +10,7 @@ void setup() {
 
 void loop() {
   delay(100);
+  Serial.println("hello rajat");
 }
 
 // function that executes whenever data is received from master
